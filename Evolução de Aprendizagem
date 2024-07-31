@@ -1,0 +1,112 @@
+#Evolução de Aprendizagem
+
+## Sei
+Aqui estão os conceitos que já domino com base no que aprendi até agora:
+
+### Introdução ao Front-end e à Web
+- **Internet:** Compreendo como a web funciona e o papel da internet.
+- **Navegadores Web:** Familiarizada com diferentes navegadores e suas funcionalidades.
+- **Frontend e Backend:** Entendo a diferença entre o front-end e o back-end no desenvolvimento web.
+- **Tipos de Frontend:** Conheço as várias abordagens e ferramentas usadas no front-end.
+- **As 3 Principais Linguagens da Web:** HTML, CSS e JavaScript.
+
+### Setup Front-end
+- **VSCode:** Já usei bastante o Visual Studio Code para desenvolvimento.
+- **Devtools:** Tenho experiência com as ferramentas de desenvolvimento dos navegadores.
+- **Figma:** Sei como utilizar o Figma para design e prototipagem.
+
+### HTML: tags, atributos e valores
+- **HTML:** Compreendo a estrutura básica do HTML.
+- **Tags:** Familiarizada com várias tags HTML e suas funções.
+- **Tags self closing:** Entendo o conceito e uso de tags auto-fecháveis.
+- **Estrutura de uma página HTML:** Conheço a estrutura fundamental de uma página HTML.
+- **Atributos:** Uso atributos para modificar o comportamento das tags.
+- **Caminho Absoluto e Relativo:** Entendo a diferença e quando usar cada um.
+- **Tags semânticas:** Conheço e aplico tags semânticas como `<header>`, `<footer>`, etc.
+- **Tags bloco e inline:** Entendo a diferença entre tags de bloco e inline.
+
+### CSS: seletores e propriedades
+- **CSS:** Compreendo a estrutura e a aplicação do CSS.
+- **Estrutura do CSS:** Já usei e entendo como organizar regras CSS.
+- **Seletores:** Utilizo diferentes seletores para aplicar estilos.
+- **Efeito Cascata:** Entendo o conceito e a aplicação do efeito cascata no CSS.
+- **Sintaxe CSS:** Sou capaz de escrever regras CSS corretamente.
+- **Ordem de Prioridade:** Conheço como funciona a prioridade das regras CSS.
+- **Herança:** Entendo como as propriedades CSS são herdadas.
+- **Especificidade:** Sei como a especificidade afeta a aplicação dos estilos.
+- **Unidade de Medida:** Uso unidades de medida apropriadas para definir tamanhos e espaçamentos.
+- **Box Model:** Compreendo o conceito do modelo de caixa e como ele afeta o layout.
+
+### CSS: propriedades e mais regras de funcionamento
+- **Pseudo Elementos:** Uso pseudo elementos como `::before` e `::after`.
+- **Pseudo Classes:** Conheço pseudo classes como `:hover` e `:focus`.
+- **Combinadores:** Utilizo combinadores para selecionar elementos em relação a outros.
+- **Cores:** Tenho experiência em definir e usar cores no CSS.
+- **Propriedades:** Conheço e aplico várias propriedades CSS.
+- **Reset CSS:** Entendo a importância do reset CSS para criar um estilo consistente.
+- **Variáveis:** Já usei variáveis CSS para gerenciar cores e estilos.
+
+### Layouts
+- **Viewport:** Compreendo o conceito de viewport e como afeta o design responsivo.
+- **Layout:** Conheço técnicas para criar layouts eficazes.
+- **Layout Flexível:** Entendo o uso de layouts flexíveis para criar designs adaptáveis.
+- **Container:** Uso containers para organizar e centralizar o conteúdo.
+- **Position:** Compreendo as propriedades de posicionamento (`static`, `relative`, `absolute`, `fixed`).
+- **!important:** Sei como e quando usar a regra `!important` no CSS.
+
+### Layout flexível
+- **Flex box:** Tenho experiência com o modelo Flexbox para layouts.
+- **Display flex:** Uso a propriedade `display: flex` para criar layouts flexíveis.
+- **main start e main end:** Entendo como usar `main start` e `main end` para alinhamento.
+- **Flex direction:** Conheço a propriedade `flex-direction` e como afeta o layout.
+- **Faixas Flex Wrap:** Sei como usar `flex-wrap` para controle de linhas.
+- **Flex Wrap:** Entendo a propriedade `flex-wrap` e seu efeito no layout.
+- **justify content:** Uso `justify-content` para distribuir espaço entre itens.
+- **align items:** Aplico `align-items` para alinhar itens ao longo do eixo transversal.
+- **align content:** Conheço `align-content` para distribuir espaço entre linhas.
+- **gap:** Utilizo a propriedade `gap` para definir espaçamentos entre itens flexíveis.
+- **flex:** Compreendo como usar a propriedade `flex` para definir a proporção dos itens.
+- **align self e order:** Uso `align-self` e `order` para ajustar o alinhamento e a ordem dos itens.
+
+### Formulários
+- **Formulário:** Conheço a estrutura básica e os elementos de um formulário HTML.
+- **Sintaxe de um Formulário:** Entendo como criar e validar formulários.
+- **Inputs tipo: text, number, password, email:** Uso diferentes tipos de inputs para coletar dados.
+- **Input tipo: checkbox e radios:** Conheço e aplico inputs de checkbox e radio.
+- **select:** Utilizo o elemento `select` para criar menus suspensos.
+- **Actions e methods:** Entendo os atributos `action` e `method` para formulários.
+- **Botões:** Crio e estilizo botões para interação com o usuário.
+
+### Responsividade
+- **breakpoints:** Defino breakpoints para criar designs responsivos.
+- **media screen:** Uso media queries para adaptar o layout a diferentes dispositivos.
+- **mobile first:** Adoto a abordagem mobile-first para desenvolvimento responsivo.
+
+### Figma e Penpot
+- **Figma:** Conheço as principais funcionalidades do Figma para design e prototipagem.
+- **Modo Dev:** Utilizo o modo de desenvolvimento no Figma para obter detalhes de design.
+- **Exportando Imagens Do Figma:** Sei como exportar imagens e assets do Figma.
+- **Pixel perfect:** Preocupo-me com a precisão dos designs em pixel.
+- **Penpot:** Tenho experiência básica com Penpot para design e prototipagem.
+
+### Organização e boas práticas
+- **Estrutura de pasta:** Organizo meus projetos com uma estrutura de pastas clara e eficiente.
+- **Padrão de nomenclatura:** Uso padrões de nomenclatura consistentes para arquivos e classes.
+- **Use Classe:** Prefiro usar classes para aplicar estilos em vez de IDs.
+- **Divisão dos arquivos:** Mantenho a divisão dos arquivos CSS e HTML para facilitar a manutenção.
+- **Ordem de escrita das propriedades do CSS:** Sigo uma ordem lógica na escrita das propriedades CSS para melhorar a legibilidade.
+
+## Quero Saber
+Estou interessada em aprender mais sobre:
+- **Avançado CSS:** Melhorar meu conhecimento sobre propriedades CSS avançadas e técnicas de design.
+- **JavaScript e Interatividade:** Entender como adicionar interatividade às minhas páginas web com JavaScript.
+- **Frameworks e Bibliotecas:** Explorar frameworks e bibliotecas populares para desenvolvimento front-end, como React ou Vue.js.
+- **Acessibilidade:** Aprender mais sobre práticas e técnicas para tornar sites mais acessíveis para todos os usuários.
+
+## Aprendi
+- **HTML e CSS Básico:** Já tenho uma boa base em HTML e CSS e estou confortável criando páginas estáticas.
+- **Flexbox e Layouts:** Compreendi como usar Flexbox para criar layouts flexíveis e responsivos.
+- **Responsividade:** Aprendi a criar designs que funcionam bem em diferentes tamanhos de tela usando media queries.
+- **Ferramentas de Design:** Melhorei minhas habilidades com ferramentas como Figma para prototipagem e design visual.
+
+
